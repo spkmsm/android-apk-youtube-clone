@@ -14,7 +14,6 @@ import Shorts from './Shorts';
 import Fontisto from 'react-native-vector-icons/Fontisto';
 import Subscription from './Subscription';
 import Library from './Library';
-
 const App = () => {
   const Tab = createMaterialBottomTabNavigator();
 
